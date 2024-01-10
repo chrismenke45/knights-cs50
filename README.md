@@ -1,0 +1,1 @@
+This is some practice with logical statements from [CS50's Knights and Knaves](https://cs50.harvard.edu/ai/2024/projects/1/knights/). I put together the logical statements to solve the puzzles in puzzle.py and logic.py was written entirely by CS50.
